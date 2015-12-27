@@ -1,5 +1,4 @@
 # References from the link below
-# https://gist.github.com/josecarlosgonz/6417633#file-googlemapsandr-md
 # http://www.r-bloggers.com/using-google-maps-api-and-r/
 
 library(shiny)
