@@ -3,7 +3,7 @@ shinyUI(fluidPage(
         fluidRow(
                 headerPanel("Developing Data Products Course Project"),
                 titlePanel('Google Maps Geocode Query Tool'),
-                helpText("Enter the addresses(Country and/or City) you want to query in the text area under the Input sectionbelow. Please put only 1 address per line. A maximum of 10 addresses i.e. 10 lines can be queried at one time. Click on the Go! button to start the query."),
+                helpText("Enter the addresses(Country,City,street,Mall....etc) you want to query in the text area under the Input sectionbelow. Please put only 1 address per line. A maximum of 10 addresses i.e. 10 lines can be queried at one time. Click on the Go! button to start the query."),
                 helpText("You can then view and/or download the results in the Output section below."),
                 helpText("An example has been pre-populated in the app."),
                 h3('Input'),
